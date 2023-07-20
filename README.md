@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mksoofian
-- 👀 I’m interested in learning to code as a profession and hopefully for enjoyment as well
-- 🌱 I’m currently learning Javascript and have already become proficient in the basics of html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mksoofian@gmail.com
+Hi, I am Mike. 
 
-<!---
-mksoofian/mksoofian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a junior React developer looking to grow professionally. I love coding and passionate about contributing and actualizing websites for clients.
+
+📫 mksoofian@gmail.com
+
