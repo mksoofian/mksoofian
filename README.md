@@ -1,6 +1,7 @@
 Hi, I am Mike. 
 
-I am a junior React developer looking to grow professionally. I love coding and passionate about contributing and actualizing websites.
+I am a React developer looking to grow professionally. 
+Check out my website @ msoofian.vercel.app
 
 📫 mksoofian@gmail.com
 
